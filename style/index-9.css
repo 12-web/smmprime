@@ -230,7 +230,8 @@ body {
 {
 	color: #407BFF;
 }
-.sec1__left h2
+.sec1__left h2,
+.sec1__left h1
 {
 	font-family: Montserrat;
 	font-size: 36px;
